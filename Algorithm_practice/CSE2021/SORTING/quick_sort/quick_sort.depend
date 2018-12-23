@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541416217 source:/home/seu/Desktop/AR/CSE2021/quick_sort/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

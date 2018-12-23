@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540724139 source:/home/seu/Desktop/AR/CSE2021/counting_sort/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

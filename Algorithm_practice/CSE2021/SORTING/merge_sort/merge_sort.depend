@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539774656 source:/home/seu/Desktop/AR/CSE2021/merge_sort/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
